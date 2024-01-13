@@ -10,6 +10,8 @@ Randomly generated pipes to provide dynamic gameplay.
 Score tracking and display.
 Game over screen with the final score upon collision.
 Background music and sound effects for an immersive experience.
+
+
 How to Play:
 
 Press space or the up arrow key to start the game.
@@ -17,10 +19,12 @@ Control the bird's altitude by tapping the space bar or pressing the up arrow ke
 Navigate through the pipes to earn points.
 Avoid collisions with pipes and the ground.
 The game ends when the bird collides, and the final score is displayed.
+
 Dependencies:
 
 Python 3.x
 Pygame library
+
 Instructions to Run:
 
 Install Python on your system.
